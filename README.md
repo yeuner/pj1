@@ -222,3 +222,7 @@ AppKeyCheck(true): Will verify whether the appKey is available, whether it is ou
 IpCheck(true): Will verify the IP is legal  
 MethodCheck(true): Will check whether more than the total limit or the date limit.  
 if verify fails,that will return ErrorResponse Object.
+
+## Annotations use  
+
+## Performance Testing  
